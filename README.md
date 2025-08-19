@@ -1,6 +1,7 @@
 # Car Management System
 
-A comprehensive electric car management system built with Node.js, React, and SQLite database. This full-stack application provides complete CRUD functionality with advanced search, filtering, and sorting capabilities.
+A comprehensive electric car management system built with Node.js, React, and SQLite database.
+This full-stack application provides complete CRUD functionality with advanced search, filtering, and sorting capabilities.
 
 ## Features
 
