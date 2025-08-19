@@ -8,11 +8,7 @@ This full-stack application provides complete CRUD functionality with advanced s
 - Complete CRUD operations (Create, Read, Update, Delete)
 - Advanced search and filtering system
 - Multi-column sorting functionality
-- Responsive design for all devices
-- Real-time data updates
-- Modern user interface with smooth animations
-- Form validation and error handling
-- SQLite database integration
+
 
 ## Technology Stack
 
