@@ -26,6 +26,3 @@ A comprehensive electric car management system built with Node.js, React, and SQ
 - Modern CSS with Grid and Flexbox layouts
 - Axios for HTTP client requests
 
-ign principles
-
-## Project Structure
